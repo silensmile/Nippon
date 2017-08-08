@@ -89,6 +89,193 @@
 |0804	|上午 |大阪城||	
 |       |下午 |购物|心斋桥附近|
 |       |18:00|前往关西空港|90分钟路程|
+
+<table>
+<thead>
+<tr>
+<th style="text-align:left">日期</th>
+<th style="text-align:left">时间</th>
+<th style="text-align:left">内容</th>
+<th style="text-align:left">其他</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:left">0726</td>
+<td style="text-align:left">9:13</td>
+<td style="text-align:left">宜昌东乘火车至汉口(2小时，11:13到站)</td>
+<td style="text-align:left">八点半宜昌东集合</td>
+</tr>
+<tr>
+<td style="text-align:left">Beijing</td>
+<td style="text-align:left">11:15</td>
+<td style="text-align:left">前往天河机场</td>
+<td style="text-align:left">轨道交通2号线</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">12:20</td>
+<td style="text-align:left">到达机场，解决午饭，办理手续</td>
+<td style="text-align:left">国际航站楼</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">15:10</td>
+<td style="text-align:left">飞机飞往东京</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">Tokyo</td>
+<td style="text-align:left">20:00</td>
+<td style="text-align:left">到达东京成田机场</td>
+<td style="text-align:left">买东京3 day pass和交通卡</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">21:00</td>
+<td style="text-align:left">找到住处（东新宿），整理内务，计划安排行程</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">0727</td>
+<td style="text-align:left">上午</td>
+<td style="text-align:left">浅草寺</td>
+<td style="text-align:left">32分钟：大江户线（上野御徒町）-银座线（浅草）</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">下午</td>
+<td style="text-align:left">国立博物馆、上野公园</td>
+<td style="text-align:left">24分钟：步行</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">傍晚</td>
+<td style="text-align:left">新宿周边（新宿御苑）（歌舞伎町）</td>
+<td style="text-align:left">返回</td>
+</tr>
+<tr>
+<td style="text-align:left">0728</td>
+<td style="text-align:left">上午</td>
+<td style="text-align:left">皇居</td>
+<td style="text-align:left">28分钟：大江户线（饭田桥）-东西线（竹桥）</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">下午</td>
+<td style="text-align:left">银座</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">晚上</td>
+<td style="text-align:left">东京铁塔</td>
+<td style="text-align:left">有乐町-山手线（JR140日元）（滨松町）再步行</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">返回</td>
+<td style="text-align:left">中途</td>
+<td style="text-align:left">大江户线（中途在都厅前换大江户线的另一个方向）</td>
+</tr>
+<tr>
+<td style="text-align:left">0729</td>
+<td style="text-align:left"></td>
+<td style="text-align:left">秋叶原（时间多的话去涉谷 银座线）</td>
+<td style="text-align:left">大江户线（上野御徒町）-JR山手线（秋叶原）</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left"></td>
+<td style="text-align:left">买之后的新干线</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">0730</td>
+<td style="text-align:left">上午</td>
+<td style="text-align:left">新干线去沼津</td>
+<td style="text-align:left">约4300日元</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">下午</td>
+<td style="text-align:left">跟着水团粉丝小灰灰*</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">0731</td>
+<td style="text-align:left">白天</td>
+<td style="text-align:left">跟着水团粉丝小灰灰*</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">18:00</td>
+<td style="text-align:left">新干线前往京都，预计21:00到达</td>
+<td style="text-align:left">住所位于千本三条东方几百米，靠近二条车站</td>
+</tr>
+<tr>
+<td style="text-align:left">0801</td>
+<td style="text-align:left">白天</td>
+<td style="text-align:left">清水寺、高台寺、八坂神社、祇园</td>
+<td style="text-align:left">二条站-东西线-清水寺 50分钟</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">傍晚</td>
+<td style="text-align:left">回住所后前往住所北侧一千米内的二条城</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">0802</td>
+<td style="text-align:left">7:00</td>
+<td style="text-align:left">京都站存放行李，前往北部金阁寺</td>
+<td style="text-align:left">二条站-山阴本线-京都站 11分钟 -公交-金阁寺 45分钟</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">10:00</td>
+<td style="text-align:left">前往南部稻荷鸟居</td>
+<td style="text-align:left">公交以及铁路 1小时</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">14:00</td>
+<td style="text-align:left">京都动画公司</td>
+<td style="text-align:left">公交或铁路 70分钟</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">17:00</td>
+<td style="text-align:left">返回京都站前往大阪市</td>
+<td style="text-align:left">回京都站从小幡站坐JR奈良线20分钟，到新大阪站-JR东海道、山阳本线（只有这一趟560日元，其余3000多）</td>
+</tr>
+<tr>
+<td style="text-align:left">0803</td>
+<td style="text-align:left">7:00</td>
+<td style="text-align:left">白天整天在环球影城</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left">0804</td>
+<td style="text-align:left">上午</td>
+<td style="text-align:left">大阪城</td>
+<td style="text-align:left"></td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">下午</td>
+<td style="text-align:left">购物</td>
+<td style="text-align:left">心斋桥附近</td>
+</tr>
+<tr>
+<td style="text-align:left"></td>
+<td style="text-align:left">18:00</td>
+<td style="text-align:left">前往关西空港</td>
+<td style="text-align:left">90分钟路程</td>
+</tr>
+</tbody>
+</table>
 **注：这部分不是我计划的*<br/>
 *说明：这些都是出发前制定的，并不代表实际情况*<br/><br/>
 光这个环节我们一伙儿人就商量了一个多星期。
